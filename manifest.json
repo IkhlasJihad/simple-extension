@@ -1,0 +1,14 @@
+{
+    "name": "Color background",
+    "description": "Try with an Extension!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Press to change background color"
+    },
+    "permissions": ["storage", "scripting", "activeTab"]
+}

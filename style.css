@@ -1,0 +1,23 @@
+h5 {
+    color: #9902cc; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+    align-content: center;
+    align-items: center;
+    vertical-align: middle;
+    margin: 10px;
+}
+input {
+    height: 30px;
+    width: 30px;
+    align-content: center;
+    align-self: center;
+    margin: 10px;
+    outline:ghostwhite;
+    border: none;
+    border-radius: 2px;
+}
+  
+input.focus {
+    box-shadow: 0 0 0 2px white,
+                0 0 0 4px black;
+}
