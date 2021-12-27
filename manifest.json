@@ -1,6 +1,6 @@
 {
     "name": "Color background",
-    "description": "Try with an Extension!",
+    "description": "Try with an Extension, pick the background color for the active tab!",
     "version": "1.0",
     "manifest_version": 3,
     "background": {
